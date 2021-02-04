@@ -162,3 +162,7 @@ init();
 - navigator.geolocation.getCurrentPosition
 - fetch.then
 
+### To Do
+- CSS
+- On server execution
+
