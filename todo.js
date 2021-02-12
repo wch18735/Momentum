@@ -33,6 +33,7 @@ function paintToDo(text){
     delBtn.addEventListener("click", deleteToDo);
 
     span.innerText = text;
+    span.setAttribute("style", "color: white;")
     li.appendChild(span);
     li.appendChild(delBtn);
     li.id = newId; // id of list

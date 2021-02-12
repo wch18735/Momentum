@@ -163,6 +163,5 @@ init();
 - fetch.then
 
 ### To Do
-- CSS
-- On server execution
-
+- [x] CSS
+- [ ] On server execution

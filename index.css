@@ -29,6 +29,13 @@ body{
     animation: fadeIn .5s linear;
 }
 
+.center {
+    margin: auto auto auto auto;
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+  }
+
 h1{
     color: #34495e;
 }
